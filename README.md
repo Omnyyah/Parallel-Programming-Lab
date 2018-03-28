@@ -7,8 +7,8 @@ This repository was mainly made for Parallel programming lab, it will cover some
 
 2. Put this file somewhere inside your $HOME and untar it
 ```
-   $ tar xf openmpi-2.0.2.tar </code> 
-   $ cd openmpi-2.0.2/ </code>
+   $ tar xf openmpi-2.0.2.tar
+   $ cd openmpi-2.0.2/ 
    ```
 3. Make sure you have XCode and command line tools installed
 ```
