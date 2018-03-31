@@ -1,7 +1,9 @@
 # Parallel-Programming-Lab
 This repository was mainly made for Parallel programming lab, it will cover some topics in MPI and openMP libraries.
 
-## Installing MPI on mac os
+#MPI 
+
+## Installing MPI on macOS
 
 1. You'll need to install this [package](https://www.open-mpi.org/software/ompi/v2.0/downloads/openmpi-2.0.2.tar.gz) 
 
@@ -30,8 +32,6 @@ This repository was mainly made for Parallel programming lab, it will cover some
 ```  
    
    
- ## MPI 
- ......
  
  
- ## openMP
+# openMP
