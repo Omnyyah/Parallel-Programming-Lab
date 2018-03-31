@@ -1,7 +1,7 @@
 # Parallel-Programming-Lab
 This repository was mainly made for Parallel programming lab, it will cover some topics in MPI and openMP libraries.
 
-#MPI 
+# MPI 
 
 ## Installing MPI on macOS
 
