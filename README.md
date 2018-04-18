@@ -35,3 +35,20 @@ This repository was mainly made for Parallel programming lab, it will cover some
  
  
 # openMP
+
+## Installing MPI on macOS
+
+openMP is a part of the compiler, so we can use Homebrew to install GNU Compiler Collection (GCC) with openMP support with one command
+```
+$ brew install gcc --without-multilib
+```
+
+and then you can run your .c program for example (helloWorldOMP.c) with this command 
+```
+gcc-7 -fopenmp -o helloWorldOMP helloWorldOMP.c
+./helloWorldOMP
+```
+I used gcc-7 because it's the gcc version I have on my device, you can check your version using:
+```
+ls /usr/local/bin/gcc*
+```
