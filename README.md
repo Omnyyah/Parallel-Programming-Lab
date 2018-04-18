@@ -36,7 +36,7 @@ This repository was mainly made for Parallel programming lab, it will cover some
  
 # openMP
 
-## Installing MPI on macOS
+## Installing OpenMP on macOS
 
 openMP is a part of the compiler, so we can use Homebrew to install GNU Compiler Collection (GCC) with openMP support with one command
 ```
