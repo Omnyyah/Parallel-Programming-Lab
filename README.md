@@ -43,7 +43,7 @@ openMP is a part of the compiler, so we can use Homebrew to install GNU Compiler
 $ brew install gcc --without-multilib
 ```
 
-and then you can run your .c program for example (helloWorldOMP.c) with this command 
+and then you can compile and run your .c program for example (helloWorldOMP.c) with these commands
 ```
 gcc-7 -fopenmp -o helloWorldOMP helloWorldOMP.c
 ./helloWorldOMP
